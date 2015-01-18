@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yiisoft/yii": "1.1.16",
+        "yiiext/migrate-command": "dev-master"
+    }
+}
